@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @AbuAlhassan1
-- 👀 I’m interested in games dev
-- 🌱 I’m currently learning php and ajax
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me qweqaz157@gmail.com
+- 👀 I’m interested in mobile dev [ F l u t t e r ] && games dev
+- 🌱 I’m currently learning [ Flutter Web, React ], Problem Solving ↗ ↗ ↗ ↗ ↗ ↗
+- 📫 How to reach me abualhassanbasim@gmail.com
 
 <!---
 AbuAlhassan1/AbuAlhassan1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
